@@ -1,4 +1,14 @@
 {
     "appname" : "komikid",
-    "version" : "1.1.0"
+    "version" : "1.1.0",
+    "rating"  : "",
+    "report"  : "",
+    "apiurl" : {
+        "rekomendasi" : "https://apk.bacakomik.co/?page=rekomendasi",
+        "terbaru"     : "https://apk.bacakomik.co/?page=terpopuler",
+        "populer"     : "https://apk.bacakomik.co/?page=latest",
+        "pencarian"   : "https://apk.bacakomik.co/?page=search&search=",
+        "kategori"    : "https://apk.bacakomik.co/?page=term_result&term=genres&val="
+    }
+    
 }
