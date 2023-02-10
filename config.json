@@ -1,7 +1,7 @@
 {
     "appname" : "komikid",
     "version" : "1.1.0",
-    "rating"  : "soon",
+    "rating"  : "https://play.google.com/store/apps/details?id=com.nontonpialadunia.aplikasi&hl=id",
     "report"  : "https://docs.google.com/forms/d/e/1FAIpQLSdC_-AMb2iiUvv28UHJAK9zP2tEx8wmEmPu1KtLUeYfoWe3Iw/viewform",
     "apiurl" : {
         "rekomendasi" : "https://apk.bacakomik.co/?page=rekomendasi",
